@@ -20,7 +20,7 @@
 <br><br>
 
 # 💻 Tech Stack:
-<div style="width: 60%; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="width: 300px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">

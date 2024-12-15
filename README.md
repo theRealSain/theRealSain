@@ -19,8 +19,8 @@
 
 <br><br>
 
-## 💻 Tech Stack:
-<div style="width: 60%; margin: auto; display: block; gap: 10px;">
+# 💻 Tech Stack:
+<div style="width: 60%; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -41,15 +41,17 @@
 
 <br><br>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=theRealSain&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theRealSain&theme=merko&hide_border=true)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theRealSain&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 <br><br>
 
-## 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=theRealSain&limit=5&theme=merko&combine_all_yearly_contributions=true)  
+
+<br><br>
 
 ---  
 [![](https://visitcount.itsvg.in/api?id=theRealSain&icon=8&color=3)](https://visitcount.itsvg.in)  

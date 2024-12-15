@@ -19,7 +19,7 @@
 
 <br><br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div style="width: 60%; margin: auto; display: block; gap: 10px;">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3">

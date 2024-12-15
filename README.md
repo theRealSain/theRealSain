@@ -7,7 +7,7 @@
 🌱 Currently learning ReactJS<br>  
 ⚡ Building websites by day, Turning caffeine into code!  
 
-
+<br><br>
 
 ## 🌐 Socials:
 <div>
@@ -17,7 +17,7 @@
   <a href="https://x.com/Sain_ks"><img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" alt="X"></a>
 </div>
 
-
+<br><br>
 
 # 💻 Tech Stack:
 <div>
@@ -39,10 +39,14 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
 </div>
 
+<br><br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=theRealSain&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=theRealSain&theme=merko&hide_border=true)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theRealSain&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+
+<br><br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=theRealSain&limit=5&theme=merko&combine_all_yearly_contributions=true)  

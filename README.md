@@ -13,18 +13,23 @@ Building websites by day, turning caffeine into code!
 
 ## Tech Stack:
 - C
-- CSS3
-- HTML5
-- JavaScript
-- Markdown
-- PHP
-- Python
-- Bootstrap
-- Laravel
-- Node.js
-- ReactJS
-- Apache
 - MySQL
+- PHP
+- Laravel
+- Python
+- Django
+- Node.js
+
+- ReactJS
+- Tailwind CSS
+- Bootstap
+- CSS3
+- JavaScript
+- HTML5
+
+- Apache
+- Markdown
+
 - Adobe Lightroom
 - Adobe Photoshop
 - Canva

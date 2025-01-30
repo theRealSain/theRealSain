@@ -35,8 +35,7 @@ Building websites by day, turning caffeine into code!
 - Canva
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theRealSain&hide_border=true&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theRealSain&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theRealSain&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theRealSain&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Top Contributed Repo:
